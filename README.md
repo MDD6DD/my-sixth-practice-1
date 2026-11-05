@@ -1,1 +1,6 @@
-# my-sixth-practice-1
+markdown
+ПереноситьСвернутьКопировать
+## Задачи для практики
+- [ ] Создать ветку feature/add-task
+- [ ] Добавить этот список в README
+- [ ] Создать Pull Request и слить ветку в main
